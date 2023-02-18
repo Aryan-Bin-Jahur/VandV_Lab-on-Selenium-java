@@ -6,7 +6,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
 import java.util.concurrent.TimeUnit;
 
-public class LoginTesting {
+public class EcommerceTesting {
     public static void main(String[] args) {
         System.setProperty("webdriver.chrome.driver","/home/aryan/Downloads/chromedriver_linux64 (1)/chromedriver");
         WebDriver driver = new ChromeDriver();
